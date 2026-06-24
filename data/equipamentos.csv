@@ -1,0 +1,9 @@
+id,nome,localizacao,tipo,data_fabricacao,vida_util_anos
+1,Misturador Industrial A,Linha 1 - Produção,Misturador,2015-03-10,15
+2,Compressor de Ar CP-01,Utilidades,Compressor,2012-07-22,12
+3,Bomba Dosadora BD-03,Linha 2 - Envase,Bomba,2018-11-05,10
+4,Forno de Secagem FS-01,Linha 3 - Pós-processo,Forno,2010-01-15,20
+5,Esteira Transportadora ET-02,Linha 1 - Embalagem,Esteira,2017-06-30,8
+6,Válvula Pneumática VP-07,Utilidades,Válvula,2013-09-18,10
+7,Robô de Paletização RP-01,Linha 2 - Embalagem,Robô,2020-04-12,15
+8,Tanque de Armazenamento TA-02,Almoxarifado,Tanque,2008-05-20,25
